@@ -1,0 +1,10 @@
+#root, body, html{
+    height: 100%;
+    margin: 0;
+}
+
+i{
+    cursor: pointer;
+    font-size: 40px;
+    
+}
